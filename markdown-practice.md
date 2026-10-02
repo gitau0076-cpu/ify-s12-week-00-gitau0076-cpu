@@ -53,7 +53,7 @@
   ```python
   print("Hello, Citizens")```
   
-  <h1>blockquote</h1>
+  <h1>Blockquote</h1>
   <blockquote>Life is an exam where everyone gets a different question paper.</blockquote>
   <!--Bonus-->
   <h1>About </h1>
