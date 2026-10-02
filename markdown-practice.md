@@ -16,10 +16,10 @@
     <li>HTML/CSS</li>
 </ul>
 <ol>
-   <li>git add .</li>
-   <li>git commit -m "first Commit"</li>
-   <li>git push -u origin main</li>
-   <li>git status</li>
+   <li>`git add`. Stages all modified, new, or deleted.</li>
+   <li>`git commit -m "first Commit"`Takes all staged changes and saves them as a new snapshot.</li>
+   <li>`git push -u origin main`Uploads local branch`</li>
+   <li>`git status`Displays the state of the working directory and staging area.</li>
 </ol>
 
 <h1>Tables</h1>
