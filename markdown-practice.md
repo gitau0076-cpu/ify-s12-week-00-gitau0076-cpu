@@ -28,7 +28,7 @@
    -[x] Set up Git and GitHub repository
    -[x] Build a personal portfolio site
    -[x] Accessibility Audit
-
+   
 
 <h1>Tables</h1>
 <table>
@@ -53,7 +53,7 @@
   ```python
   print("Hello, Citizens")```
   
-  <h1>Blockquote</h1>
+  <h1>blockquote</h1>
   <blockquote>Life is an exam where everyone gets a different question paper.</blockquote>
   <!--Bonus-->
   <h1>About </h1>
