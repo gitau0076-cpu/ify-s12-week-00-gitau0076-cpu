@@ -15,6 +15,7 @@
     <li>Java script</li>
     <li>HTML/CSS</li>
 </ul>
+<h2> Steps to make a commit in git
 <ol>
    <li>`git add`. Stages all modified, new, or deleted.</li>
    <li>`git commit -m "first Commit"`Takes all staged changes and saves them as a new snapshot.</li>
