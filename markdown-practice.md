@@ -17,11 +17,18 @@
 </ul>
 <h2> Steps to make a commit in git</h2>
 <ol>
-   <li>`git add`. Stages all modified, new, or deleted.</li>
-   <li>`git commit -m "first Commit"`Takes all staged changes and saves them as a new snapshot.</li>
-   <li>`git push -u origin main`Uploads local branch`</li>
-   <li>`git status`Displays the state of the working directory and staging area.</li>
-</ol>
+   <li>Run `git add`. Stages all modified, new, or deleted.</li>
+   <li>Run `git commit -m "first Commit"`Takes all staged changes and saves them as a new snapshot.</li>
+   <li>Run `git push -u origin main`Uploads local branch`</li>
+   <li>Run `git status`Displays the state of the working directory and staging area.</li>
+  </ol>
+   <h3>Task list</h3>
+   -[x] Complete Markdown syntax tutorial
+   -[✓] Set up Git and GitHub repository
+   -[✓] Build a personal portfolio site
+   -[✓] Accessibility Audit
+
+
 <h1>Tables</h1>
 <table>
   <tr>
@@ -47,11 +54,11 @@
   
   <h1>Blockquote</h1>
   <blockquote>Life is an exam where everyone gets a different question paper.</blockquote>
-  
-  <h1>Bonus</h1>
-  <section id="about-me">
-    <h2>About Me</h2>
-    <p>Hello I'm <strong style="color: blue;">Florence</strong></p>
+  <!--Bonus-->
+  <h1>About </h1>
+  <h2>Learning Goals</h2>
+    <h3> This Semester</h3>
+    <p>Hello I'm <b>Florence</b> an aspiring <i>web developer</i>.</p>
     <ul>
       <li>HTML/CSS
       <li>React
