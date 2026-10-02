@@ -16,7 +16,7 @@
 ## Setup
 
 ## Current Projects
-- https://github.com/gitau0076-cpu/gitau0076-cpu.github.io— Personal Portfolio
+- https://gitau0076-cpu.github.io/ify-s12-week-00-gitau0076-cpu/— Personal Portfolio
 - 
 
 ## How to Reach Me
