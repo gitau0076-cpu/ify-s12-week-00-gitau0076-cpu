@@ -22,9 +22,6 @@
    <li>`git push -u origin main`Uploads local branch`</li>
    <li>`git status`Displays the state of the working directory and staging area.</li>
 </ol>
-## Task List
-
-
 <h1>Tables</h1>
 <table>
   <tr>
