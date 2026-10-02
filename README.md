@@ -16,7 +16,8 @@
 ## Setup
 
 ## Current Projects
-- https://github.com/gitau0076-cpu/Gitau0076 — Personal Portfolio
+- https://github.com/gitau0076-cpu/gitau0076-cpu.github.io— Personal Portfolio
+- 
 
 ## How to Reach Me
 - Email: nyanjihia98@gmail.com
