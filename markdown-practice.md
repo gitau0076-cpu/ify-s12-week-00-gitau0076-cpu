@@ -23,10 +23,11 @@
    <li>Run `git status`Displays the state of the working directory and staging area.</li>
   </ol>
    <h3>Task list</h3>
-   -[x] Complete Markdown syntax tutorial
-   -[✓] Set up Git and GitHub repository
-   -[✓] Build a personal portfolio site
-   -[✓] Accessibility Audit
+
+   -[] Complete Markdown syntax tutorial
+   -[x] Set up Git and GitHub repository
+   -[x] Build a personal portfolio site
+   -[x] Accessibility Audit
 
 
 <h1>Tables</h1>
