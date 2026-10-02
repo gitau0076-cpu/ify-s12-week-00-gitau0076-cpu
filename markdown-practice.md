@@ -23,10 +23,10 @@
    <li>Run `git status`Displays the state of the working directory and staging area.</li>
   </ol>
    <h3>Task list</h3>
-   -[x] Complete Markdown syntax tutorial
-   -[✓] Set up Git and GitHub repository
-   -[✓] Build a personal portfolio site
-   -[✓] Accessibility Audit
+   - [x] Complete Markdown syntax tutorial
+   - [✓] Set up Git and GitHub repository
+   - [✓] Build a personal portfolio site
+   - [✓] Accessibility Audit
 
 
 <h1>Tables</h1>
@@ -52,7 +52,7 @@
   ```python
   print("Hello, Citizens")```
   
-  <h1>Blockquote</h1>
+  <h1>blockquote</h1>
   <blockquote>Life is an exam where everyone gets a different question paper.</blockquote>
   <!--Bonus-->
   <h1>About </h1>
