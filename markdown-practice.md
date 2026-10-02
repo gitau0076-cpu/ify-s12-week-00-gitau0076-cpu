@@ -24,9 +24,9 @@
   </ol>
    <h3>Task list</h3>
    - [x] Complete Markdown syntax tutorial
-   - [✓] Set up Git and GitHub repository
-   - [✓] Build a personal portfolio site
-   - [✓] Accessibility Audit
+   - [] Set up Git and GitHub repository
+   - [] Build a personal portfolio site
+   - [] Accessibility Audit
 
 
 <h1>Tables</h1>
