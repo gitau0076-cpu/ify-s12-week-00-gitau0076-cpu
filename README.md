@@ -16,10 +16,10 @@
 ## Setup
 
 
-## Current Projects
+## Links
 - — Personal Portfolio
--   Markdown
--    Group
+- — Markdown
+-  —  Group
 
 ## How to Reach Me
 - Email: nyanjihia98@gmail.com
