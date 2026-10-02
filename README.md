@@ -15,9 +15,11 @@
   
 ## Setup
 
+
 ## Current Projects
-- https://gitau0076-cpu.github.io/ify-s12-week-00-gitau0076-cpu/— Personal Portfolio
-- 
+- — Personal Portfolio
+-   Markdown
+-    Group
 
 ## How to Reach Me
 - Email: nyanjihia98@gmail.com
