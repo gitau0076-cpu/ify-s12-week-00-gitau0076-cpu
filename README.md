@@ -12,6 +12,8 @@
 - React
 - Node.js/Express backend
 - Database
+  
+## Setup
 
 ## Current Projects
 - https://github.com/gitau0076-cpu/Gitau0076 — Personal Portfolio
