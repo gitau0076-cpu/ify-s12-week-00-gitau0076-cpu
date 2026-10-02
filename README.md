@@ -14,14 +14,13 @@
 - Database
   
 ## Setup
-git config --global user.name "gitau0076-cpu"
-git config --global user.email "gitau0076@gmail.com
-
+- git config --global user.name "gitau0076-cpu"
+- git config --global user.email "gitau0076@gmail.com
 
 ## Links
--https://gitau0076-cpu.github.io/— Personal Portfolio
-- https://github.com/gitau0076-cpu/ify-s12-week-00-gitau0076-cpu/blob/main/markdown-practice.md— Markdown
--https://github.com/HellenWamuciiNjue/iyf-s12-week-00-team-HellenWamuciiNjue  — Group
+- https://gitau0076-cpu.github.io/— Personal Portfolio
+- https://github.com/gitau0076-cpu/ify-s12-week-00-gitau0076-cpu/blob/main/markdown-practice.md — Markdown
+- https://github.com/HellenWamuciiNjue/iyf-s12-week-00-team-HellenWamuciiNjue — Group
 
 ## How to Reach Me
 - Email: nyanjihia98@gmail.com
