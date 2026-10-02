@@ -22,22 +22,11 @@
    <li>Run `git push -u origin main`Uploads local branch`</li>
    <li>Run `git status`Displays the state of the working directory and staging area.</li>
   </ol>
-   <h3>Task list</h3>
-<<<<<<< HEAD
-=======
-   
+ <h3>Task list</h3>
    - [] Complete Markdown syntax tutorial
    - [x] Set up Git and GitHub repository
    - [x] Build a personal portfolio site
    - [x] Accessibility Audit
->>>>>>> 156099e0571f6935f991eadca6f959103fdd30c0
-
-   -[] Complete Markdown syntax tutorial
-   -[x] Set up Git and GitHub repository
-   -[x] Build a personal portfolio site
-   -[x] Accessibility Audit
-   
-
 <h1>Tables</h1>
 <table>
   <tr>
