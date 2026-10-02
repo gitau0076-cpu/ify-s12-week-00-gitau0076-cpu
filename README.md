@@ -18,7 +18,7 @@
 - git config --global user.email "gitau0076@gmail.com
 
 ## Links
-- https://gitau0076-cpu.github.io/— Personal Portfolio
+- https://gitau0076-cpu.github.io— Live page
 - https://github.com/gitau0076-cpu/ify-s12-week-00-gitau0076-cpu/blob/main/markdown-practice.md — Markdown
 - https://github.com/HellenWamuciiNjue/iyf-s12-week-00-team-HellenWamuciiNjue — Group
 
